@@ -123,16 +123,44 @@ I am a **Platform Engineering & Site Reliability Engineering (SRE)** focused dev
 
 ---
 
-## 📊 Infrastructure & Code Telemetry
+## 🛠️ Platform Metrics & Operational Principles
+
+<table>
+  <tr>
+    <th width="33%">🎯 Reliability Targets</th>
+    <th width="33%">⚙️ Platform Standards</th>
+    <th width="33%">🚀 Delivery & Automation</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><b>Target Availability:</b> 99.9% SLO focus</li>
+        <li><b>Incident Strategy:</b> Automated alert routing & MTTD reduction</li>
+        <li><b>Testing:</b> Chaos engineering & failure domain isolation</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Infrastructure:</b> Declarative IaC & GitOps workflows</li>
+        <li><b>Observability:</b> Metrics, Logs, & Distributed Tracing</li>
+        <li><b>Security:</b> Shift-left SAST/DAST pipeline integration</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Containers:</b> Distroless, hardened OCI images</li>
+        <li><b>Orchestration:</b> K8s Operators & custom CRDs (Go)</li>
+        <li><b>CI/CD:</b> Zero-downtime rolling & canary deployments</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=coderv1304&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderv1304&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderv1304&theme=tokyonight&hide_border=true" width="97%" />
+![GitHub Activity](https://img.shields.io/github/commit-activity/m/coderv1304/SysWatch?style=for-the-badge&color=4B6CB7&label=SYSWATCH%20COMMITS)
+![Repo Count](https://img.shields.io/github/repositories/coderv1304?style=for-the-badge&color=182848&label=PUBLIC%20REPOS)
+![License](https://img.shields.io/github/license/coderv1304/SysWatch?style=for-the-badge&color=2088FF&label=LICENSE)
 
 </div>
 
