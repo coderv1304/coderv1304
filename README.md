@@ -156,13 +156,8 @@ I am a **Platform Engineering & Site Reliability Engineering (SRE)** focused dev
   </tr>
 </table>
 
-<div align="center">
 
-![GitHub Activity](https://img.shields.io/github/commit-activity/m/coderv1304/SysWatch?style=for-the-badge&color=4B6CB7&label=SYSWATCH%20COMMITS)
-![Repo Count](https://img.shields.io/github/repositories/coderv1304?style=for-the-badge&color=182848&label=PUBLIC%20REPOS)
-![License](https://img.shields.io/github/license/coderv1304/SysWatch?style=for-the-badge&color=2088FF&label=LICENSE)
 
-</div>
 
 ---
 
