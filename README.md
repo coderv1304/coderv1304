@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:4b6cb7,100:182848&height=220&section=header&text=Varun%20Nair&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Platform%20Engineer%20%7C%20SRE%20%7C%20AIOps%20%26%20Observability&descAlignY=58&descSize=18&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:4b6cb7,100:182848&height=220&section=header&text=Varun%20Nair&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Platform%20Engineer%20%7C%20SRE%20%7C%20AIOps%20and%20Observability&descAlignY=58&descSize=18&descColor=a0aec0" width="100%"/>
 
 <!-- Typing Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=4B6CB7&center=true&vCenter=true&width=650&lines=Building+resilient%2C+self-healing+cloud-native+infrastructure;Designing+AIOps+monitoring+%26+observability+pipelines;Golang+%7C+Kubernetes+%7C+Docker+%7C+AWS+%7C+DevSecOps;Aspiring+Platform+Engineer+%26+Site+Reliability+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=4B6CB7&center=true&vCenter=true&width=650&lines=Building+resilient%2C+self-healing+cloud-native+infrastructure;Designing+AIOps+monitoring+and+observability+pipelines;Golang+%7C+Kubernetes+%7C+Docker+%7C+AWS+%7C+DevSecOps;Aspiring+Platform+Engineer+and+Site+Reliability+Engineer" alt="Typing SVG" />
 
 <br/>
 
@@ -150,3 +150,4 @@ I am a **Platform Engineering & Site Reliability Engineering (SRE)** focused dev
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:1f1c2c&height=100&section=footer" width="100%"/>
+
