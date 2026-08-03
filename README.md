@@ -127,12 +127,12 @@ I am a **Platform Engineering & Site Reliability Engineering (SRE)** focused dev
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=coderv1304&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=4B6CB7&text_color=a0aec0&icon_color=4B6CB7" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderv1304&theme=tokyonight&hide_border=true&background=1f1c2c&stroke=4B6CB7&ring=4B6CB7&fire=4B6CB7" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=coderv1304&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Varun's GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderv1304&theme=tokyonight&hide_border=true" width="48%" alt="Varun's GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderv1304&layout=compact&theme=tokyonight&hide_border=true&title_color=4B6CB7&text_color=a0aec0" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderv1304&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
 
 </div>
 
