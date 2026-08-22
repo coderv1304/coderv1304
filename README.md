@@ -54,7 +54,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🛰️ [Cipher-Watch — Linux Administration](https://github.com/coderv1304/linux-administration)
+#### 🛰️ [Cipher-Watch](https://github.com/coderv1304/linux-administration)
 ![Shell](https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=black)
 
 Project 1 of the Cipher-Watch DevSecOps portfolio series. 5 Bash scripts + a systemd-managed service for common Linux admin tasks — backup with retention pruning, CPU/memory/disk threshold monitoring, dependency checks, user management, and log rotation. The monitor script runs every 5 minutes via a `systemd` timer, and every script passes `shellcheck` with zero warnings.
