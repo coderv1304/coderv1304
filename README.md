@@ -54,10 +54,10 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🐧 [linux-administration](https://github.com/coderv1304/linux-administration)
+#### 🛰️ [Cipher-Watch — Linux Administration](https://github.com/coderv1304/linux-administration)
 ![Shell](https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=black)
 
-5 Bash scripts + a systemd-managed service for common Linux admin tasks — backup with retention pruning, CPU/memory/disk threshold monitoring, dependency checks, user management, and log rotation. The monitor script runs every 5 minutes via a `systemd` timer, and every script passes `shellcheck` with zero warnings.
+Project 1 of the Cipher-Watch DevSecOps portfolio series. 5 Bash scripts + a systemd-managed service for common Linux admin tasks — backup with retention pruning, CPU/memory/disk threshold monitoring, dependency checks, user management, and log rotation. The monitor script runs every 5 minutes via a `systemd` timer, and every script passes `shellcheck` with zero warnings.
 
 </td>
 <td width="50%" valign="top">
@@ -73,20 +73,18 @@ A full-stack ML application that classifies network flows as benign or malicious
 
 ---
 
-### 📊 GitHub Stats
+### 🗺️ Cipher-Watch Roadmap
 
-<div align="center">
+Six-phase DevSecOps portfolio platform — evolving from Linux scripting into a full observability + AIOps pipeline.
 
-<img src="https://github-readme-stats.vercel.app/api?username=coderv1304&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=coderv1304&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderv1304&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderv1304&theme=tokyo-night&hide_border=true" width="90%"/>
-
-</div>
-
-> These pull live from GitHub on every page load — commits and contributions update automatically, no manual edits needed. If a card shows broken on first load, refresh the page once — the public stats API occasionally needs a retry.
+| # | Project | Stack | Status |
+|---|---------|-------|--------|
+| 1 | Linux Administration | Bash, systemd | ✅ Done |
+| 2 | Production-Grade Docker | Docker, Docker Compose | ✅ Done |
+| 3 | Kubernetes Deployment | Kubernetes | 🔜 In Progress |
+| 4 | Infrastructure as Code | Terraform | ⏳ Planned |
+| 5 | AWS Resource Lister | Go | ⏳ Planned |
+| 6 | Log Multiplexer | Go | ⏳ Planned |
 
 ---
 
